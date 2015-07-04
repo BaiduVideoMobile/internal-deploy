@@ -1,0 +1,3 @@
+
+https://developer.apple.com/library/mac/documentation/IDEs/Conceptual/AppDistributionGuide/DistributingEnterpriseProgramApps/DistributingEnterpriseProgramApps.html#//apple_ref/doc/uid/TP40012582-CH33-SW1
+
